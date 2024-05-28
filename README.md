@@ -12,7 +12,7 @@ Proje dosyalarınızı bu GitHub reposundan indirin.
 3. Veritabanını Kurun
 Web tarayıcınızda [http://localhost/phpmyadmin](http://95.130.171.20/phpmyadmin) adresine gidin. Kodda yer alan username ve password kısımları bağlantıyı sağlayacaktır. (Gerekirse giriş yapılabilir)
 Otomatik olarak oluşturulmuş veritabanını seçin ve Import sekmesine tıklayın.
-Choose File butonuna basarak proje dosyalarınız içerisindeki veritabanı.sql dosyasını seçin ve Go tuşuna basarak SQL dosyasını içe aktarın. Bu işlem veritabanı tablolarınızı oluşturacaktır.
+Choose File butonuna basarak proje dosyalarınız içerisindeki "Veritabanı.sql" dosyasını seçin ve Go tuşuna basarak SQL dosyasını içe aktarın. Bu işlem veritabanı tablolarınızı oluşturacaktır.
 
 4. Veritabanı Bağlantısını Yapılandırın
 Proje dosyalarınız içerisindeki mysqlibaglan.php dosyasını açın ve veritabanı bağlantı ayarlarını kontrol edin:
