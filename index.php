@@ -35,7 +35,6 @@
     }
 
     a {
-      
       text-decoration: none;
       color: #6617CB;
       font-weight: bold;
@@ -51,6 +50,27 @@
       background-color: #6617CB;
       border-color: #6617CB;
     }
+
+    .github-link {
+      position: absolute;
+      bottom: 20px;
+      text-align: center;
+      width: 100%;
+    }
+
+    .github-link a {
+      color: #6617CB;
+      font-weight: bold;
+      font-size: 18px;
+      text-decoration: none;
+    }
+
+    .github-link a:hover {
+      color: #FFFFFF;
+      background-color: #6617CB;
+      padding: 5px 10px;
+      border-radius: 5px;
+    }
   </style>
 </head>
 <body>
@@ -63,6 +83,10 @@
   <div class="links">
     <a href="register.php">Kayıt Ol</a>
     <a href="oturum_ac.php">Giriş Yap</a>
+  </div>
+
+  <div class="github-link">
+    <a href="https://github.com/EK-RON/PHP-MySQL-Projesi">GitHub Linki Tıkla </a>
   </div>
 </body>
 </html>
