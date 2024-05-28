@@ -19,7 +19,7 @@ Proje dosyalarınız içerisindeki mysqlibaglan.php dosyasını açın ve verita
 
 5. Uygulamayı Çalıştırın
   
-6. Ayrıca E- Kampüste Gönderimi Yapılan Linke Tıklayarak Giriş Yapın
+Not: Ayrıca E- Kampüste Gönderimi Yapılan Linke Tıklayarak Giriş Yapın
 
 Proje Kullanım Videosu
 https://www.youtube.com/watch?v=lNz7952pNHg
