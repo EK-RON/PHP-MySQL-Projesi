@@ -62,7 +62,7 @@
     <a href="belge_listele.php">Belge Listeleme Ekranı</a>
     <a href="isbirlikleri_ekle.php">İş Birlikleri Ekleme Ekranı</a>
     <a href="isbirlikleri_listele.php">İş Birlikleri Listeleme Ekranı</a>
-    <a href="anasayfa.php">Oturumu Kapat</a>
+    <a href="index.php">Oturumu Kapat</a>
   </div>
 </body>
 </html>
